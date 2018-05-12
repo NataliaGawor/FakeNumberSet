@@ -16,7 +16,7 @@ public class Main {
 
         set.print();
 
-        set.remove(2);
+        set.remove(4);
         set.remove(75);
 
         set.print();
